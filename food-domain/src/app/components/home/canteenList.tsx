@@ -34,7 +34,7 @@ export default function CanteenList({}: Props) {
 		<div>
 			<ul>
 				<li>บาวิศวะ</li>
-				<Card imgSrc="../public/images/test1.png" imgAlt="บาร์วิศวะ" />
+				<Card imgSrc="./test1.png" imgAlt="บาร์วิศวะ" />
 				<li>บาใหม่</li>
 				<li>บาใหม่กว่า</li>
 				<li>บาวิทยา</li>
